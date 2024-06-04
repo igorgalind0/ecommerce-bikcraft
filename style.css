@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+/* Global */
+@import "./css/global/global.css";
+@import "./css/global/header.css";
+@import "./css/global/footer.css";
+
+/* Home */
+@import "./css/home/introducao.css";
+@import "./css/home/tecnologia.css";
+@import "./css/home/parceiros.css";
+@import "./css/home/depoimento.css";
+
+/* Utilidades */
+@import "./css/utilidades/componentes.css";
+@import "./css/utilidades/tipografia.css";
+@import "./css/utilidades/cores.css";
+
+/* Bicicletas */
+@import "./css/bicicletas/bicicletas-lista.css";
+@import "./css/bicicletas/bicicletas.css";
+@import "./css/bicicleta/bicicleta.css";
+
+/* Termos */
+@import "./css/termos/termos.css";
+
+/* Seguro */
+@import "./css/seguros/seguros.css";
+@import "./css/seguros/vantagens.css";
+@import "./css/seguros/perguntas.css";
+@import "./css/bicicleta/seguro.css";
+
+/* Contato */
+@import "./css/utilidades/formulario.css";
+@import ".//css/contato/contato.css";
+
+/* Lojas */ 
+@import ".//css/lojas/lojas.css";
+
+@import ".//css/orcamento/orcamento.css";
+
+@import ".//css/utilidades/animacao.css";
