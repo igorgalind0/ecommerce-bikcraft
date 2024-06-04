@@ -52,6 +52,11 @@
         text-align: center;
     }
 
+    .depoimento p::before,
+    .depoimento p::after {
+        display: none;
+    }
+
     .depoimento-conteudo {
         padding: 40px 20px;
         justify-self: center;
