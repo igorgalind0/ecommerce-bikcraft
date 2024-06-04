@@ -64,6 +64,7 @@
     gap: 8px;
     transition: 0.2s;
     cursor: pointer;
+    width: max-content;
 }
 
 .bicicleta-comprar span:hover {
